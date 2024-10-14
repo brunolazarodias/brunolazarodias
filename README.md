@@ -1,0 +1,5 @@
+-  Hi, I’m Bruno Lázaro Dias
+-  I’m interested in Designer Area
+- Check my Portfolio on Behance: https://www.behance.net/brvnodiasdesigner
+-  I’m currently learning Front-End and UI Designer
+- Fun fact: I like playing video games and watching anime.
